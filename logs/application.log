@@ -1,0 +1,9 @@
+2019-11-06 15:25:40,926 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-7 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.csrf.CSRFFilter
+    play.filters.cors.CORSFilter
+    play.filters.headers.SecurityHeadersFilter
+
+2019-11-06 15:25:40,981 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-7 - Application started (Dev)
